@@ -19,9 +19,9 @@
 	p { color:#f5f7bb;
 	text-align:left;}
 	
-	p.r { color:#f5f7bb;
-	text-align:left;
-	float:right;}
+	p.mid { color:#f5f7bb;
+	text-align:center;
+	}
 
 	h2.left { color:#f5f7bb;
 		text-align:left }
