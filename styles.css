@@ -112,6 +112,29 @@
 		border: .5px solid #62211b;
 		}
 		
+		#csep {
+		width:585px;
+		background-color: #ffebce;
+		text-align:left;	
+		margin-right:200px;
+		}
+		
+				#rcap {
+		width:250px;
+		background-color: #ffebce;
+		text-align:left;	
+		float:right;
+		border: .5px solid #62211b;
+		margin-right:30px;}
+				
+			#lcap {
+		width:250px;
+		background-color: #ffebce;
+		text-align:left;	
+		float:left;
+		border: .5px solid #62211b;
+		margin-left:30px;}
+		
 		#midtextbox {
 		width:350px;
 		margin-left:150px;
